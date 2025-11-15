@@ -1,0 +1,19 @@
+# Ticket 04 – Outlook Password Loop
+
+**Contact:** Johnny Appleseed
+**Priority:** Medium
+**Type:** Incident
+**Status:** Resolved
+
+## Description
+Outlook continuously prompted for a password even after entering correct credentials.
+
+## Troubleshooting Steps
+- Cleared Outlook credentials from Credential Manager
+- Removed and re-added M365 profile
+- Signed user out and back in
+- Checked license activation
+- Restarted Outlook
+
+## Resolution
+Outlook authenticated successfully after credential reset. User verified inbox syncing normally.
