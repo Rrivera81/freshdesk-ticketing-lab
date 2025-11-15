@@ -1,0 +1,69 @@
+IT Ticketing System Project – Freshdesk (2025)
+
+
+This project simulates a real-world IT Helpdesk environment using Freshdesk.
+
+It demonstrates hands-on troubleshooting, ticket documentation, and workflow handling used in IT Support and SOC/Helpdesk roles.
+
+ Tools & Technologies Used
+Freshdesk Ticketing System
+
+Windows 10
+
+Active Directory (simulated scenarios)
+
+Microsoft 365
+
+VPN Troubleshooting
+
+Printer Troubleshooting
+
+Network Troubleshooting
+
+System Performance Optimization
+
+ Project Structure
+/screenshots – Full screenshots of every ticket, the dashboard, contacts, and company
+
+/tickets – Written versions of ticket descriptions, steps, and resolutions
+
+/documentation – Notes and troubleshooting workflows
+
+ Completed Tickets (10 Total)
+Password Reset / AD Lockout
+
+VPN Failing to Authenticate
+
+Printer Offline
+
+Outlook Password Loop
+
+Slow Computer / Performance Issue
+
+Software Installation Request
+
+Shared Folder Access Denied
+
+Second Monitor Not Displaying
+
+MFA Reset
+
+Wi-Fi Connection Issue
+
+ Skills Demonstrated
+Troubleshooting hardware & software issues
+
+Documenting steps and resolutions
+
+Prioritizing tickets and managing workloads
+
+Simulating real helpdesk workflows
+
+User support and communication
+
+Basic networking & account management
+
+ Purpose of This Project
+
+
+To demonstrate practical, hands-on service desk experience for IT Support or Cybersecurity entry-level roles.
