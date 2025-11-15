@@ -1,0 +1,20 @@
+# Ticket 10 – Wi-Fi Connectivity Issue
+
+**Contact:** Sarah James
+**Priority:** Medium
+**Type:** Incident
+**Status:** Resolved
+
+## Description
+User reported inability to connect to office Wi-Fi.
+
+## Troubleshooting Steps
+- Verified Wi-Fi adapter enabled
+- Forget and re-added network
+- Checked DHCP assignment
+- Flushed DNS
+- Renewed IP
+- Tested connection
+
+## Resolution
+Wi-Fi connection restored. User confirmed stable internet access.
