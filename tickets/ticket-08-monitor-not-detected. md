@@ -1,0 +1,19 @@
+# Ticket 08 – Second Monitor Not Displaying
+
+**Contact:** Emily Dean
+**Priority:** Low
+**Type:** Incident
+**Status:** Resolved
+
+## Description
+User reported that their second monitor was not displaying or being detected.
+
+## Troubleshooting Steps
+- Checked monitor power and HDMI cable
+- Swapped cable to rule out hardware failure
+- Detected displays in Windows
+- Updated display drivers
+- Configured dual monitor settings
+
+## Resolution
+Monitor detected successfully and extended display mode enabled.
