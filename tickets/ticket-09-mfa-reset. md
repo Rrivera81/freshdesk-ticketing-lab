@@ -1,0 +1,18 @@
+# Ticket 09 – MFA Reset Request
+
+**Contact:** Johnny Appleseed
+**Priority:** Medium
+**Type:** Service Request
+**Status:** Completed
+
+## Description
+User needed MFA reset due to a lost mobile device.
+
+## Troubleshooting Steps
+- Verified user identity
+- Reset authentication app configuration
+- Guided user through re-enrollment
+- Tested MFA login
+
+## Resolution
+MFA reconfigured successfully. User confirmed access to all required applications.
