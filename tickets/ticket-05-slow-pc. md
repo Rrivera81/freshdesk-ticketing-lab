@@ -1,0 +1,20 @@
+# Ticket 05 – Slow Computer / Performance Issue
+
+**Contact:** Sarah James
+**Priority:** Low
+**Type:** Incident
+**Status:** Resolved
+
+## Description
+User reported slow boot times and lag during daily tasks.
+
+## Troubleshooting Steps
+- Verified CPU/RAM/disk usage
+- Disabled unnecessary startup applications
+- Ran Windows updates
+- Removed temp files and cache
+- Checked for background processes
+- Rebooted system
+
+## Resolution
+System performance improved significantly. User confirmed faster response and normal workflow.
