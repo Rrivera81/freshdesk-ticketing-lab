@@ -1,0 +1,20 @@
+# Ticket 03 – Printer Offline
+
+**Contact:** Emily Dean
+**Priority:** Medium
+**Type:** Incident
+**Status:** Resolved
+
+## Description
+User reported that office printer displayed “Offline” and was unable to print documents.
+
+## Troubleshooting Steps
+- Checked printer power and network connection
+- Restarted printer and ensured it had network access
+- Cleared print queue
+- Restarted Windows Print Spooler service
+- Removed and re-added printer to user’s device
+- Printed test page
+
+## Resolution
+Printer restored to online status. Test print successful, and user confirmed issue resolved.
