@@ -1,69 +1,117 @@
-IT Ticketing System Project – Freshdesk (2025)
+# 🖥️ Freshdesk Ticketing System Project (IT Helpdesk Simulation)
 
+This project simulates a real-world IT Helpdesk environment using the **Freshdesk** ticketing system.
+It demonstrates hands-on troubleshooting, user support, and technical documentation — all core skills required for IT Support, Cybersecurity, and SOC entry-level roles.
 
-This project simulates a real-world IT Helpdesk environment using Freshdesk.
+---
 
-It demonstrates hands-on troubleshooting, ticket documentation, and workflow handling used in IT Support and SOC/Helpdesk roles.
+## 📌 Project Overview
+This lab was built to give practical, real-world experience handling IT issues using a structured ticketing workflow.
+The project includes:
 
- Tools & Technologies Used
-Freshdesk Ticketing System
+- 10 fully documented tickets
+- Real screenshots of the interface
+- A simulated company with users (contacts)
+- Documentation of troubleshooting workflows
+- Professional ticket notes showing how issues were resolved
 
-Windows 10
+This project reflects the type of work done in Tier 1 IT, Service Desk, Jr. Cybersecurity, and SOC positions.
 
-Active Directory (simulated scenarios)
+---
 
-Microsoft 365
+## 🧰 Tools & Technologies Used
+- **Freshdesk** Ticketing System
+- **Microsoft Windows 10/11**
+- **Active Directory (Simulated)**
+- **Microsoft 365 Admin Troubleshooting**
+- **VPN Troubleshooting (AnyConnect/GlobalProtect–Simulated)**
+- **Basic Networking (DHCP, DNS, Wi-Fi)**
+- **Printer Troubleshooting**
+- **Credential Manager**
+- **Group Policy Concepts**
+- **MFA / Authentication Basics**
 
-VPN Troubleshooting
+---
 
-Printer Troubleshooting
+## 📝 Documented Tickets
+Each ticket includes:
+✔ Description
+✔ Troubleshooting steps
+✔ Root cause
+✔ Resolution
+✔ Best practice notes
 
-Network Troubleshooting
+Click to view each one:
 
-System Performance Optimization
+- [Password Reset / AD Lockout](tickets/ticket-01-password-reset.md)
+- [VPN Authentication Failure](tickets/ticket-02-vpn-issue.md)
+- [Printer Offline](tickets/ticket-03-printer-offline.md)
+- [Outlook Password Loop](tickets/ticket-04-outlook-loop.md)
+- [Slow Computer / Performance Issue](tickets/ticket-05-slow-pc.md)
+- [Software Installation Request](tickets/ticket-06-software-install.md)
+- [Shared Folder Access Denied](tickets/ticket-07-shared-folder.md)
+- [Second Monitor Not Displaying](tickets/ticket-08-monitor-not-detected.md)
+- [MFA Reset Request](tickets/ticket-09-mfa-reset.md)
+- [Wi-Fi Connectivity Issue](tickets/ticket-10-wifi-not-connecting.md)
 
- Project Structure
-/screenshots – Full screenshots of every ticket, the dashboard, contacts, and company
+---
 
-/tickets – Written versions of ticket descriptions, steps, and resolutions
+## 📸 Screenshots
+All Freshdesk screenshots (tickets, dashboard, contacts, company view) are stored in the folder below:
 
-/documentation – Notes and troubleshooting workflows
+➡️ **[View Screenshots Folder](screenshots/)**
 
- Completed Tickets (10 Total)
-Password Reset / AD Lockout
+These validate the authenticity of the project and demonstrate use of the Freshdesk UI.
 
-VPN Failing to Authenticate
+---
 
-Printer Offline
+## 📚 Documentation
+Additional documentation included:
 
-Outlook Password Loop
+- [Project Overview](documentation/project-overview.md)
+- [Troubleshooting Workflows](documentation/troubleshooting-workflows.md)
 
-Slow Computer / Performance Issue
+---
 
-Software Installation Request
+## 🛠️ Skills Demonstrated
 
-Shared Folder Access Denied
+### ✔ Technical Support
+- Password resets
+- AD lockouts
+- Software installation
+- Printer troubleshooting
+- System performance diagnostics
+- Wi-Fi / network troubleshooting
+- VPN authentication failures
 
-Second Monitor Not Displaying
+### ✔ IT Fundamentals
+- Ticket lifecycle management
+- Incident vs. service request handling
+- User communication
+- Root cause analysis
+- Documentation and note-taking
+- Prioritization and SLAs
 
-MFA Reset
+### ✔ Cybersecurity Foundations
+- MFA resets
+- Identity verification
+- Account security
+- Understanding of access control
+- Safe user permission handling
 
-Wi-Fi Connection Issue
+---
 
- Skills Demonstrated
-Troubleshooting hardware & software issues
+## 🎯 Purpose of This Project
+This project was created to demonstrate my ability to:
 
-Documenting steps and resolutions
+- Troubleshoot IT issues in a structured environment
+- Communicate effectively with users
+- Document steps clearly
+- Think logically and methodically
+- Build hands-on experience for IT Support or Cybersecurity roles
 
-Prioritizing tickets and managing workloads
+---
 
-Simulating real helpdesk workflows
-
-User support and communication
-
-Basic networking & account management
-
- Purpose of This Project
-
-
-To demonstrate practical, hands-on service desk experience for IT Support or Cybersecurity entry-level roles.
+## ⭐ Final Notes
+This project is part of my growing IT/cybersecurity portfolio.
+More labs are being built, including Active Directory, SOC, and Networking projects.
