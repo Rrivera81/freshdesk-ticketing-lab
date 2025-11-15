@@ -1,1 +1,67 @@
+# Troubleshooting Workflows
 
+These workflows outline the structured approach used to diagnose and resolve the issues in this project.
+They demonstrate methodical troubleshooting and alignment with standard IT support practices.
+
+---
+
+##  Password Reset / Account Lockout
+1. Verify user's identity
+2. Check AD account status
+3. Unlock account
+4. Reset password
+5. Force password change at next login
+6. Confirm successful login
+
+---
+
+##  VPN Authentication Failure
+1. Confirm network/internet connection
+2. Validate authentication method (MFA)
+3. Clear cached VPN credentials
+4. Restart VPN client
+5. Reset MFA
+6. Re-test connection
+
+---
+
+##  Printer Offline
+1. Check printer power & network
+2. Restart printer
+3. Clear print queue
+4. Restart Print Spooler service
+5. Remove & re-add printer
+6. Print test page
+
+---
+
+##  Outlook Password Loop
+1. Clear Credential Manager
+2. Restart Outlook
+3. Re-add account
+4. Confirm Microsoft 365 license
+5. Verify authentication sync
+
+---
+
+##  Slow PC
+1. Check CPU/RAM/Disk usage
+2. Disable startup apps
+3. Clear temp files
+4. Run updates
+5. Reboot
+6. Test performance
+
+---
+
+##  Shared Folder Access Denied
+1. Verify user's identity
+2. Check folder permissions
+3. Confirm missing AD group membership
+4. Add user to group
+5. Force Group Policy update
+6. Confirm access
+
+---
+
+These workflows provide documentation of how each issue was approached and resolved.
