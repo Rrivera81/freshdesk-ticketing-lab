@@ -1,0 +1,20 @@
+# Ticket 02 – VPN Authentication Failure
+
+**Contact:** Emily Garcia
+**Priority:** High
+**Type:** Incident
+**Status:** Resolved
+
+## Description
+User reported that VPN would not authenticate, preventing remote access to company resources.
+
+## Troubleshooting Steps
+- Verified internet connectivity
+- Confirmed Duo/MFA working
+- Restarted VPN client
+- Cleared cached VPN credentials
+- Reset user’s MFA settings
+- Reinstalled VPN application
+
+## Resolution
+User authenticated successfully after MFA reset and client restart. Verified connection to internal resources.
