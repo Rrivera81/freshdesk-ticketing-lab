@@ -1,0 +1,20 @@
+# Ticket 07 – Shared Folder Access Denied
+
+**Contact:** Emily Garcia
+**Priority:** Medium
+**Type:** Incident
+**Status:** Resolved
+
+## Description
+User could not access a shared network folder required for their department.
+
+## Troubleshooting Steps
+- Verified user identity
+- Checked folder permissions
+- Confirmed user was missing from security group
+- Added user to proper AD group
+- Forced Group Policy update
+- Tested access
+
+## Resolution
+User successfully accessed shared folder after group membership update.
