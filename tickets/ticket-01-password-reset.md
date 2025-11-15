@@ -1,6 +1,6 @@
 # Ticket 01 – Password Reset / AD Lockout
 
-**Contact:** Sarah Johnson
+**Contact:** Bob Tree
 **Priority:** Medium
 **Type:** Incident
 **Status:** Resolved
